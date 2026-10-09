@@ -1,0 +1,11 @@
+# 実験でつくられるもの(秘密を含む・環境の情報を含む)はコミットしない
+lab/*.key
+lab/*.crt
+lab/*.csr
+lab/*.srl
+lab/*.pem
+lab/*.pcap
+lab/*.pcapng
+lab/keylog*.txt
+lab/*.log
+lab/early.txt
